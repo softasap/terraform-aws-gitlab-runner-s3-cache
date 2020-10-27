@@ -27,7 +27,7 @@ No requirements.
 
 | Name | Description |
 |------|-------------|
-| cache\_bucket\_arn | n/a |
-| cache\_iam\_user | n/a |
+| cache\_bucket\_arn | Arn of the created gitlab cache bucket |
+| cache\_iam\_user | Arn of the created iam user with rights to manage cache bucket |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
